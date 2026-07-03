@@ -103,6 +103,6 @@ The video demonstration link is provided in `video_link.txt`.
 
 ## Author
 
-Name: [Your Full Name]  
-Student ID: [Your Student ID]  
+Name: DHANASH HARI 
+Student ID: GH1040941 
 Module: Databases and Big Data
